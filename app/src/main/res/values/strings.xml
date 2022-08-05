@@ -4,5 +4,6 @@
     <string name="account_required">Please select the accounts that you wish to use with Andlytics.</string>
     <string name="account_choose">Accounts must be registered developer accounts with apps published on Google Play (\'Google Apps for Business\' and accounts linked to multiple developer consoles are not supported yet).</string>
     <string name="ok">OK</string>
-
+    <string name="manage_accounts">Manage accounts</string>
+    <string name="account_add">Add android developer account</string>
 </resources>

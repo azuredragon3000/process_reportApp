@@ -12,7 +12,7 @@ import android.os.Bundle;
 public class AutosyncHandler {	
 
 	public static int DEFAULT_PERIOD = 60 * 3; // 3 hours (in minutes)
-	public static final String ACCOUNT_AUTHORITY = "com.github.andlyticsproject";
+	public static final String ACCOUNT_AUTHORITY = "com.myapp.myapplication";
 	public static final String ACCOUNT_TYPE_GOOGLE = "com.google";
 
 	public boolean isAutosyncEnabled(String accountName) {
